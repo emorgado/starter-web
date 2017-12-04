@@ -8,7 +8,7 @@ This exampele is to show different parts of the git repository and various comma
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As steted above, the main purpose is to provide simple examples for git training demos.
 
 ## How to contribute
 
