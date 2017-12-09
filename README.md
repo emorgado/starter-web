@@ -13,6 +13,7 @@ As steted above, the main purpose is to provide simple examples for git training
 ## How to contribute
 
 Send me a email
+Please for this repository and then issue Pull Requests for review
 
 ## Deployment
 
