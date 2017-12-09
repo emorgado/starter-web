@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Emerson Jose Morgado Brito -- Developer -- emerson.morgado@gmail.com
 
 # THANKS
 
-    <name>
+   Julia Dias Brito 
 
 # TECHNOLOGY COLOPHON
 
