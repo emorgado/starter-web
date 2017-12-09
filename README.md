@@ -17,3 +17,7 @@ Send me a email
 ## Deployment
 
 THis is a simple web project, deployment cam be on any web server or even local files
+
+### Copyright
+
+2017 Velumsoft
