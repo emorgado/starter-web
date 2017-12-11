@@ -23,4 +23,4 @@ THis is a simple web project, deployment cam be on any web server or even local 
 
 ### Copyright
 
-2017 Velumsoft All rights reserved TO ME
+2017 Velumsoft All rights reserved to us
